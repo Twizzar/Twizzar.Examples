@@ -5,7 +5,9 @@ Twizzar is a testing toolkit for .NET (C#) that helps you write high quality tes
 The purpose of this project is to provide examples for the usage of Twizzar.
 
 ## Examples
+
 To see Twizzar in action, a example is provided under [./examples/PotionDeliveryService/](./examples/PotionDeliveryService/).
 
 ## More information
+
 For more information visit 🌐[twizzar.com](https://www.twizzar.com/). The user documentation is available under 📚[docs.twizzar.com](https://docs.twizzar.com/).
